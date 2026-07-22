@@ -51,9 +51,9 @@ skillhub install xiaohongshu-title-master
 ## 价格
 
 - **Pro 版**：9.9 元/月
-- 赞助地址：[爱发电]（你的爱发电链接放这里）
+- 赞助地址：https://ifdian.net/a/qdd521
 
-付费后 Pro 版 SKILL.md 发送到你的邮箱。
+> 付费后在爱发电留言留下你的邮箱，Pro 版 SKILL.md 24小时内发送。
 
 ## 开源协议
 
